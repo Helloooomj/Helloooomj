@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Helloooomj
-- 👀 I’m interested in software/web dev and the cybersecurity space
-- 🌱 I’m currently learning CS basics
+- 👋 Hi, I’m Margaret @Helloooomj
+- 👀 I’m interested in literally everything
+- 🌱 I’m currently learning CS fundamentals
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I have a black belt in TKD
 
